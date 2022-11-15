@@ -1,0 +1,11 @@
+
+project: ada-base 
+target: fuzzme
+
+image: $MAYHEM_DOCKER_REGISTRY/abrewer/ada-base/fuzzme
+
+cmds:
+
+  - cmd: /fuzzme @@
+    env: {}
+
