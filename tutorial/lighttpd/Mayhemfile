@@ -1,8 +1,5 @@
-# Mayhem Version
-
-
 # The Docker image that our target lives in.
-image: $MAYHEM_DOCKER_REGISTRY/forallsecure/tutorial/lighttpd:1.4.15
+image: forallsecure/lighttpd:vulnerable
 
 # How long to run behavior analysis.
 duration: 90
