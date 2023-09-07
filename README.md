@@ -96,13 +96,15 @@ more autonomous.
 
 ## Schedule
 
-* Day 1: 800 - 1300 MT
-  * Lunch: 1100 - 1145 MT
-  * 5 minute break every ~1 hour.
+* Day 1:
+  * Course overview
+  * Lighttpd Lab
+  * Four Corners of Application Security
+  * Fuzz an $n$-day
 
 ## Links
 
-* [Mayhem Instance (https://training.forallsecure.com)](https://training.forallsecure.com)
+* [Mayhem Instance (https://app.mayhem.security)](https://app.mayhem.security)
 * [Lab 1](lab1.md)
 * [Lab 2](lab2.md)
 * [Mayhem Community](https://community.forallsecure.com)
