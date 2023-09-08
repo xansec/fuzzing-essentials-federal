@@ -9,7 +9,7 @@ This guide will show you how to get started with Mayhem using the web interface.
 ## Step 1. Create a Mayhem account
 
 Create a new account by navigating to 
-[training.forallsecure.com](https://training.forallsecure.com) and either choose:
+[app.mayhem.security](https://app.mayhem.security) and either choose:
    * Google account: Use your Google account on Mayhem
    * "Sign up": Create a local account on the Mayhem instance. 
 
@@ -74,7 +74,7 @@ This guide will show you how to start a run using the Mayhem CLI.
 The `mayhem` CLI authenticates to the Mayhem server using an API token. The API
 token  is available three places:
 
-   * The [download screen](https://training.forallsecure.com/-/installation)
+   * The [download screen](https://app.mayhem.security/-/installation)
    * In your profile settings, located in the top-left under your username, then
      "Settings", then "API Tokens".
    * Under the "?" help window. 
@@ -82,7 +82,7 @@ token  is available three places:
 Once you get your API token, log in the CLI:
 
 ```
-mayhem login https://training.forallsecure.com/ <YOUR API KEY>
+mayhem login https://app.mayhem.security/ <YOUR API KEY>
 ```
 
 ![API Token Locations](assets/images/api-token-locations.png)
@@ -109,7 +109,7 @@ You should see output that looks similar to this:
 ```
 WARNING: corpus is not a file or directory, skipping
 Run started: tutorial/lighttpd/2
-Run URL: https://training.forallsecure.com:443/nathan/tutorial/lighttpd/2
+Run URL: https://app.mayhem.security:443/nathan/tutorial/lighttpd/2
 tutorial/lighttpd/2
 ```
 

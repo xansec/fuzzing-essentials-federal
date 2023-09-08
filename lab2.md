@@ -46,7 +46,7 @@ docker run --rm -i -d -p 8080:80 forallsecure/lighttpd:vulnerable
 
 This command:
 
-  * Runs the docker image `training.forallsecure.com:5000/forallsecure/tutorial/lighttpd`
+  * Runs the docker image `app.mayhem.security:5000/forallsecure/tutorial/lighttpd`
   * The `-p` binds port 80 in the docker image to localhost port 8080
   * The `--rm` removes any temporary state when the
     container exits.
