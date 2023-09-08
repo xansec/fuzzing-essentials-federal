@@ -1,0 +1,3 @@
+[submodule "libbw64/exercise/libbw64"]
+	path = libbw64/exercise/libbw64
+	url = git@github.com:xansec/libbw64.git
